@@ -17,7 +17,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileApplication.iOS", "Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileApplication.UWP", "MobileApplication\MobileApplication.UWP\MobileApplication.UWP.csproj", "{20C44B37-340C-45F8-A1CD-EA4E59B0FCE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileApplication", "MobileApplication\MobileApplication\MobileApplication.csproj", "{4C8B35FF-3F3D-44D4-8D7E-F7B053E9D28D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MobileApplication", "MobileApplication\MobileApplication\MobileApplication.csproj", "{4C8B35FF-3F3D-44D4-8D7E-F7B053E9D28D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4C0E4522-AD0E-4136-A762-1E7C020726A0}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
