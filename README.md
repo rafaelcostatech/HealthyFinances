@@ -1,5 +1,5 @@
 # Healthy Finances
-> System to control in an easy way your pesonnal finances. 
+> System to control in an easy way your personal finances. 
 
 Created to be used with WinForms, WPF, ASP .NET MVC with Angular, Asp.NET Core, Xamarin and Sql Server Express in Visual Studio 2017
 
